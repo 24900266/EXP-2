@@ -76,6 +76,9 @@ Load Characteristics:
 
 <img width="594" height="941" alt="Screenshot 2025-09-15 091500" src="https://github.com/user-attachments/assets/70008848-5bd4-4b97-bb32-d53f4a855a3c" />
 
+<img width="999" height="957" alt="Screenshot 2025-09-15 092527" src="https://github.com/user-attachments/assets/0867b49d-dc76-4214-8f0f-5479c6051ec1" />
+
+<img width="835" height="721" alt="Screenshot 2025-09-15 092548" src="https://github.com/user-attachments/assets/76251609-001c-424c-a321-65289918c76f" />
 
  
 Result:
